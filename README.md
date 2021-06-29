@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dagdemir
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java Development.
+- 🌱 I'm a Java lover. I keen to learn new tech stacks.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 You can reach me via Linkedin
 
