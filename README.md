@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilkerdagdemir
+- 👋 Hi, 
 - 👀 I’m interested in coding.
 - 🌱 I'm a Java lover. I keen to learn new tech stacks.
 - 💞️ I’m looking to collaborate on interesting projects.
